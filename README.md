@@ -1,25 +1,45 @@
 # 👋 Hi, I’m Reuben Kashuru Mwarandu
 
-🎓 **Teacher by profession** | Passionate educator | Lifelong learner
-I’m dedicated to creating engaging, student-centered learning environments. With a background in the 8-4-4 curriculum, Competency Based Education and the International Cambridge curriculum, I strive to make complex ideas accessible and foster a love for learning in my students.
+**IT & Technical Communication Specialist**  
+*Bridging information technology, academic research, and scholarly writing*
 
-## 🧑‍🏫 About Me
-- 🏫 Currently teaching at Nexa International School
-- 📚 Teaching experience in intergrated science and primary cambridge science for primary level, Biology and Chemistry for secondary level.
-- 🌱 Always exploring new instructional strategies, EdTech tools, and inclusive teaching practices
-- 🎯 Goal: To inspire curiosity and empower students to reach their full potential
+🎓 **Academic Background**  
+- PGDE Mount Kenya University
+- B.Sc. Biotechnology - Kenyatta University  
+- Basic skills in Technical Communication & Information Design- Zuri Technical College 
 
-## 🛠️ Teaching Toolkit
+✍️ **What I Do**  
+- Research in academic related writing, educational technology, and IT policy  
+- Peer-reviewed online writing
+- writing research proposals and research reports 
+- Technical writing for software documentation, white papers, and grant proposals  
+- Supervision of graduate theses in IT and computing fields  
+- Curriculum development for academic writing in STEM
 
-- **Instructional Strategies**: Differentiated instruction, project-based learning, formative assessment, classroom management  
-- **EdTech I Use**: Google Classroom, Canva, Edpuzzle, Zoom  
-- **Languages / Skills**: English, Swahili, Curriculum design, Lesson planning, Parent communication
-- **Certifications**:Teaching License, , First Aid, Certified Educator
+📚 **Selected Publications**  
+Systematic Literature Review Methods in Computing Research.
+Ethical Frameworks for AI in Higher Education.
+Usability of Technical Documentation: A Meta-Analysis.
 
+💻 **Code & Academic Tools**  
+literature-review-automation - Python scripts for systematic review screening & citation extraction 
+Academic-writing-checklist Markdown/LaTeX templates for peer review, rebuttal letters, and revisions.
+CLI tool for cleaning, validating, and merging BibTeX libraries.
+Ethics-approval-workflow - IRB protocol templates + data management plans for IT research.
 
-## 📫 Let’s Connect
+🛠️ **Technical Toolkit**  
+- LaTeX / Overleaf / BibTeX / Zotero  
+- Python (pandas, matplotlib, scikit-learn for research data analysis)  
+- R / RMarkdown (statistical analysis and reproducible reports)  
+- Version control for manuscripts and collaborative writing)  
+- Jupyter Notebooks (reproducible computational research)
+- Technical documentation)  
+- Qualitative data analysis for IT case studies)  
 
-I’m currently open to teaching roles or education-related opportunities.
+🔍 **Currently Seeking**  
+- Research collaborations in responsible AI, digital pedagogy, or IT ethics  
+- Peer review opportunities for conferences/journals in information systems  
+- IT students or postdocs interested in technical writing research
 
 - 📧 Email: reubenmwarandu@gmail.com  
 
